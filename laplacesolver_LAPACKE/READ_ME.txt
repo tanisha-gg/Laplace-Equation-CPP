@@ -1,4 +1,3 @@
-Assignment 6: Laplace Equation Solver. By: Tanisha Ghosal
 
 First, please make sure you are in the A6 directory. Then, load the following modules:
 module load gcc
