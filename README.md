@@ -18,5 +18,5 @@ make
 To run the solver,
 
 ```./laplace_solver <method> <N>```
-<method>: Choose between lapack and iterative.
-<N>: Number of grid points.
+```<method>: Choose between lapack and iterative.```
+```<N>: Number of grid points.```
