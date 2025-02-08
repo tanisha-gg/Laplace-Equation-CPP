@@ -1,6 +1,6 @@
 # Laplace Solver
 
-This project solves the Laplace equation using either a LAPACKE-based direct method or an iterative approach.
+This project solves the Laplace equation using either a LAPACKE-based direct method or an iterative approach in C++.
 
 ## Requirements
 
